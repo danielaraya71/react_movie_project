@@ -1,11 +1,12 @@
 import './App.css'
+import Home from './pages/Home'
 import MovieCard from './components/MovieCard'
 
 function App() {
   return (
     <>
       <div>
-        <MovieCard movie={{title: "Terrifier 3", release_date: "2024"}}/>
+        <Home />
       </div>
     </>
   )
