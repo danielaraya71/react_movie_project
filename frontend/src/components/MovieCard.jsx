@@ -1,3 +1,6 @@
+// MovieCard.jsx
+// Displays a single movie card with poster, title, release year, and a favorite button.
+
 import "../css/MovieCard.css"
 import { useMovieContext } from "../contexts/MovieContext"
 

@@ -1,3 +1,6 @@
+// NavBar.jsx
+// Displays a navigation bar that allows you to go to home and favorites page
+
 import { Link } from "react-router-dom"
 import "../css/Navbar.css"
 
